@@ -1,0 +1,169 @@
+.d1{
+    width: 100vw;
+    height: 8vh;
+    background: radial-gradient(54.94% 272.54% at 27.36% -134.72%, rgba(108,148,255,.92)0, rgba(0,0,0,.92)100%);
+   
+
+    display : flex;
+    justify-content: center; 
+    align-items: center;
+    
+    
+    color: white;
+    font-family: Gotham SSm;
+}
+
+.body{
+    margin: 0;
+}
+
+.d3{
+    font-size: 17px;
+    font-weight: 500;
+    margin-left: -7px;
+}
+
+.d4{
+    font-size: 14px;
+    
+
+}
+
+.a1{
+    color: white;
+    font-size: 14px;
+    text-underline-offset: 4px;
+}
+
+.d2{
+    width: 100vw;
+    height: 92vh;
+    background-color: transparent;
+    position: fixed;
+}
+
+.video{
+    width: 100vw;
+    height: 92vh;
+    object-fit: cover;
+    position: fixed;
+}
+
+.img1{
+    width: 120px;
+    margin-left: 50px;
+    margin-top: 21px;
+
+}
+
+.list1{
+    list-style: none;
+    margin-left: 407px;
+    margin-top: -18px;
+       
+
+}
+
+.li1{
+    display: inline;
+    color: white;
+    font-size: 14px;
+    font-family: Gotham SSm;
+    font-weight: 500;
+    margin-left: 28px;
+    cursor: pointer;
+}
+
+.li2{
+    width: 23px;
+    margin: 13px;
+    cursor: pointer;
+}
+
+.list2{
+    list-style: none;
+    margin-left: 1147px;
+    margin-top: -45px;
+    display: flex;
+}
+
+.d5{
+    color: white;
+    font-size: 40px;
+    font-family: Gotham SSm;
+    font-weight: 500;
+
+    display: flex;
+    justify-content: center;
+    margin-top: 22px;
+    margin-left: -18px;
+}
+
+.d6{
+    color: white;
+    font-size: 20px;
+    font-family: Gotham SSm;
+    
+    display: flex;
+    justify-content: center;
+    margin-top:2px;
+    margin-left: -18px;
+}
+
+.btn1{
+    width: 267px;
+    height: 42px;
+    background-color: rgb(24, 24, 24);
+    opacity: 0.8;
+    
+    color: white;
+    font-size: 14px;
+    font-family: GOtham SSm;
+    font-weight: 500;
+
+    border-style: none;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+
+.btn2{
+    width: 267px;
+    height: 42px;
+    background-color: rgb(255, 255, 255);
+    opacity: 0.8;
+    
+    color: rgb(0, 0, 0);
+    font-size: 14px;
+    font-family: GOtham SSm;
+    font-weight: 500;
+
+    border-style: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 20px;
+
+}
+
+.d7{
+    display: flex;
+    justify-content: center;
+    margin-top: 318px;
+    margin-left: -18px;
+}
+
+.d8{
+    color: white;
+    font-size: 12px;
+    font-family: Gotham SSm;
+    font-weight: 500px;
+
+    display: flex;
+    justify-content: center;
+    margin-top: 26px;
+    margin-left: -18px;
+}   
+
+.a2{
+    color: white;
+}
